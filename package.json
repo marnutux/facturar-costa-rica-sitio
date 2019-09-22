@@ -1,0 +1,24 @@
+{
+  "name": "facturarSite",
+  "version": "1.0.0",
+  "description": "Crear factura Costa Rica",
+  "author": "Minor Arrieta",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^0.2.14",
+    "@nuxt/typescript-build": "^0.2.9",
+    "@nuxt/typescript-runtime": "^0.1.6",
+    "eslint-plugin-vue": "^5.2.3"
+  }
+}
